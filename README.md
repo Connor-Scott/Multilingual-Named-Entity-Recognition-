@@ -1,4 +1,4 @@
-***Multilingual Named Entity Recognition (NER) with XLM-Roberta***
+**Multilingual Named Entity Recognition (NER) with XLM-Roberta**
 
 This repository contains a fine-tuned XLM-Roberta model for Named Entity Recognition (NER) tasks in four languages: German (de), French (fr), Italian (it), and English (en). This project explores cross-lingual transfer learning, enabling the model to recognize named entities across multiple languages, improving language-agnostic performance.
 
